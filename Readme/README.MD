@@ -1,1 +1,1 @@
-//DENEME bakmaca
+//Merhaba arkadaşlar bu benim ilk github denemem. Bu konu ile ilgili kendimi geliştirmeye çalışıyorum.
